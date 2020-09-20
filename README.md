@@ -1,4 +1,4 @@
-#FinTech Case Study: Ant Group
+# FinTech Case Study: Ant Group
 
 ## Overview and Origin
 
