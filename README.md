@@ -55,17 +55,21 @@ Over the past decades, the mobile internet is developing fast as the development
  
 
 * What are the other major companies in this domain?
+
 Different countries have different ecosystems. In China, in this case, major companies are Wechat Pay and Ali Pay. These two giants take over 80% of mobile payment transactions. In the US, major players are major credit card companies, Paypal, Square. 
 
 ## Results
 
 * What has been the business impact of this company so far?
+
 So far, Ali Pay is still growing by 20% annually, dominating the payment and transaction market. It brings more and more users to Alipay, not only the end-users but also small business owners. More service providers bring more end-users and more end-users attract more small business owners to start using Alipay to their business. As a result, This trend brings a  positive feedback loop. To Alipay, more users help them to collect more data and bring more advertising revenue.  
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
 Market share is the core metric that can measure success. In Q1 2020, the Ant group takes 55.4% took the first place in this market. Also, by Per capita transaction volume, Alipay is 44,683 CNY Vs. the second player Wechat Pay 23,255 CNY. It indicates that Alipay has higher user quality.
 
 * How is your company performing relative to competitors in the same domain?
+
 Compare to Alipay, the main competitor Wechat pay is the second-largest player. WeChat payment is an ancillary function of WeChat, whose main competitive advantage is a larger user base than Alipay. However, WeChat payments are mainly used for small payments, while Alipay can be used for high payments; At the same time, Alipay has a higher usage scenario than WeChat and more comprehensive financial services. These two points make the user quality of Alipay higher than WeChat payment. China's digital payment transactions in 2020Q1 were 56.7 trillion yuan. Alipay and WeChat had 703 and 946 million MAU in March 2020, respectively. Based on the market share mentioned above, we calculate that the per capita transaction volume of Alipay is about 44,683 yuan/person, while the per capita transaction volume of WeChat payment is about 23,255 yuan/person, and the per capita transaction volume of Alipay is about twice that of WeChat payment, indicating that Alipay has a higher user quality.
 
 ## Recommendations
