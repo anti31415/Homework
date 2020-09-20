@@ -1,5 +1,6 @@
 #FinTech Case Study: Ant Group
 
+
 ## Overview and Origin
 
 * Name of company
