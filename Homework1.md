@@ -10,15 +10,17 @@ Ant Group
 Started in 2004, Alipay launched as an escrow service to address the issue of trust between online buyers and sellers in the early days of e-commerce in China.
 
 * Who are the founders of the company?
-Jack Ma, who is the founder of Alibaba(BABA).
+Jack Ma, who is the founder of Alibaba(BABA, NYSE).
 
 
 * How did the idea for the company (or project) come about?
-As Alibaba's online business was growing fast, payment and secured transaction services became big issues in online shopping. So Jack's team came up with a trustable solution, Ali Pay, to ensure the payment is secure among both buyers and sellers. 
+As Alibaba's online shopping business was growing fast, payment and secured transaction services became big issues in online shopping. So Jack and his team came up with a trustable solution, AliPay, to ensure the payment is secure among both buyers and sellers. 
 
 
 * How is the company funded? How much funding have they received?
-Incubated within Alibaba, Ant Group was individualized from Alibaba with the product of Ali Pay. Alipay was rebranded as Ant Financial Services on 23 October 2014.
+Ant Group (Chinese: 蚂蚁金服; pinyin: Mǎyǐ jīn fú), formerly known as Ant Financial and Alipay, is an affiliate company of the Chinese Alibaba Group. Ant Financial is the world's highest-valued FinTech company, and most valuable unicorn (start-up) company, with a valuation of US$150 billion. Alipay was rebranded as Ant Financial Services on 23 October 2014.
+Based on public information, in 2015, Ant Financial raised $4.5 billion in a funding round with investors including China Investment Corp (CIC), CCB Trust, China Life, China Post Group, China Development Bank Capital, and Primavera Capital Group. In 2015, the company was valued at about $45 billion. As of 26 April 2016, Ant Financial had around 450 million annual active users, with Credit Suisse estimating that 58% of China's online payment transactions went through Alipay. In September 2016, Ant Financial bought EyeVerify Inc. By late January 2017, Ant Financial had a valuation of $60 billion. On 26 January 2017, Ant Financial Services Group announced a deal to acquire MoneyGram International for $880 million. In January 2018, the companies decided to terminate the deal after approval was not granted from the Committee on Foreign Investment in the United States due to U.S. national security concerns. 
+In November 2019, the company announced to be raising $1 billion for a new fund, with the aim to expand the firm's investment activities in India and Southeast Asia. In August 2020, the company filed the documents for IPO with a plan to raise $30 billion. Subsequently, the firm revealed that it made a net profit of $2.6 billion in 2019.
 
 
 ## Business Activities:
@@ -73,7 +75,7 @@ Compare to Alipay, the main competitor Wechat pay is the second-largest player. 
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-I would suggest that Alipay can focus more on the consumer lending business in the future.
+I would suggest that Alipay can focus more on the consumer lending business in the future, and also expending its payment network internationally. 
 
 
 * Why do you think that offering this product or service would benefit the company?
@@ -88,15 +90,21 @@ In the consumer lending business, Machine learning, picture recognition, face re
 
 * Why are these technologies appropriate for your solution?
 
-Because they have huge users and mega transaction data, the company can use AI to effectively improve the intelligent ability of risk control, fraud protection, collection, and compliance and improve service experience. For example, the company can utilize AI technology to make part of the traditional work of online banking replaced by AI, which not only improves the efficiency but also reduces the loan cost of small and micro enterprises
+Because they have huge users and mega transaction data, the company can use AI to effectively improve the intelligent ability of risk control, fraud protection, collection, and compliance and improve service experience. For example, the company can utilize AI technology to make part of the traditional work of online banking replaced by AI, which not only improves the efficiency but also reduces the loan cost of small and micro enterprises. Mechine learing can help to find more effective attributes from millions of variables to develop its lending strategies. This method can largely increase the speed of recation as fraud technology is developing fast.
 
 
 
 ## Addendum
 
-https://www.antgroup.com/about/history
-http://report.iresearch.cn/report_pdf.aspx?id=3601
-https://xueqiu.com/4988013449/159577615
-https://render.antfin.com/p/f/antfin-privacy-policy-en/overview-and-statement.html
+1. https://www.antgroup.com/about/history
+2. http://report.iresearch.cn/report_pdf.aspx?id=3601
+3. https://xueqiu.com/4988013449/159577615
+4. https://render.antfin.com/p/f/antfin-privacy-policy-en/overview-and-statement.html
+5. https://en.wikipedia.org/wiki/Ant_Group#:~:text=In%202015%2C%20Ant%20Financial%20raised,valued%20at%20about%20%2445%20billion.
+6. https://www.reuters.com/article/us-china-alibaba-idUSKCN0I50KJ20141016
+7. https://techcrunch.com/2017/01/27/alibaba-ant-financial-moneygram/
+8. https://web.archive.org/web/20180730110704if_/https://cfo.economictimes.indiatimes.com/news/ant-raises-14-billion-in-largest-single-mop-up-biggest-ever-single-fund-raising-globally-/64515622
+9. https://techcrunch.com/2018/06/07/ant-financial-raises-14-billion/
+10. https://www.dealstreetasia.com/stories/ant-financial-india-sea-164225/
 
 
